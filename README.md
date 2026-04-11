@@ -1,6 +1,6 @@
 ## Hey, I'm Tamino 👋
 
-![](https://cdn.jsdelivr.net/gh/taminozhu/bucket@main/imgs/20260411205124860.svg)
+![](https://cdn.jsdelivr.net/gh/taminozhu/bucket@main/imgs/20260411211859979.svg)
 
 <!--
 **taminozhu/taminozhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
