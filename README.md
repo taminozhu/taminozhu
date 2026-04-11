@@ -1,4 +1,4 @@
-## Hi there Tamino 👋
+## Hey, I'm Tamino 👋
 
 ![](https://cdn.jsdelivr.net/gh/taminozhu/bucket@main/imgs/20260411205124860.svg)
 
